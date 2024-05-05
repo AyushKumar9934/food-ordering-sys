@@ -1,0 +1,218 @@
+.Food-menu-child{
+    position:absolute;
+    top:0px;
+    left:0px;
+    background-color: black;
+    width: 400px;
+    height: 1100px;
+}
+.img{
+    position:absolute;
+    top:30px;
+    left: 30px;
+    width: 300px;
+    height: 300px;
+   
+    
+   
+}
+.img img{
+    border-radius: 50%;
+}
+.Iskcon-Govindas-restrorent-menu{
+    position:absolute;
+    top:280px;
+    left:30px;
+    text-align: center;
+    color: white;
+    font-weight: 900;
+}
+.menu,.more-about-us,.quick-links{
+    font-family: Arial, Helvetica, sans-serif;
+    position:absolute;
+    top:350px;
+    left:100px;
+    font-weight: 600;
+    color:white;
+
+}
+.menu{
+    margin-top:0px;
+    top:357px;
+    left:400px;
+    color:black;
+    font-size: 20px;
+}
+.more-about-us{
+    top:500px;
+    
+}
+.qol{
+    margin-bottom: 0px;
+
+}
+.ol1{
+    margin:0;
+    font-family: inherit;
+    color: white;
+}
+.below-quick-links{
+    position:absolute;
+    top:390px;
+    left:30px;
+}
+.Slogan{
+    position:absolute;
+    top:300px;
+    left:100px;
+    font-weight: 300;
+  color: #ff2424;
+}
+.below-more-about-us{
+    position:absolute;
+    top:520px;
+    left:30px;
+}
+.mol{
+    margin:0;
+    font-family: inherit;
+    color: white;
+}
+.right-side-item,.below-right-side{
+    position:absolute;
+    top:400px;
+    left:-1px;
+    margin:0px;
+    border-top: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width:400px;
+    height:1px;
+    
+}
+.below-right-side{
+    top:500px;
+}
+.rect{
+    position:absolute;
+    left:401px;
+    top:0px;
+    width:500px;
+    height:46px;
+    background-color: yellow;
+
+}
+.rect-input {
+    border: 0;
+    outline: 0;
+    background-color: #272a30;
+    position: absolute;
+    top: 0px;
+    left: 401px;
+    border-radius: var(--br-8xs);
+    width: 500px;
+    height: 50px;
+  }
+  .serach-food-item {
+    position: absolute;
+    top: 31px;
+    left: 478px;
+    font-size: var(--font-size-base);
+   /* color: #878787;*/
+   color: #878787;
+   
+  }
+.logo{
+    position:absolute;
+    top:0px;
+    right:5px;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+}
+.serachicon{
+    position: absolute;
+  top: 0px;
+  left: 403px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.login,.signup{
+    position:absolute;
+    top:0px;
+    right:250px;
+    width:100px;
+    height:50px;
+    background-color: red;
+    color:green;
+    text-align: center;
+    
+}
+.signup{
+    right:100px;
+    /* background-color: green; */
+}
+.big-img{
+    position:absolute;
+    top: 50px;
+  left: 400px;
+  border-radius: 0px;
+  width:900px;
+  height: 300px;
+}
+.rectangle-1,
+.rectangle-2,
+.rectangle-3 {
+  position: absolute;
+  top: 380px;
+  left: 400px;
+  width: 100px;
+  height: 100px;
+}
+.rectangle-1,
+.rectangle-2 {
+  left: 700px;
+}
+.rectangle-1 {
+  left: 1000px;
+} 
+.rectangle-1.item {
+    position:absolute;
+    top: 0;
+    left: 0;
+    background-color: gray;
+    width: 200px;
+    height: 200px;
+  }
+
+.Food-menu {
+    
+    position: relative;
+    background-color: #111315;
+    
+   width:100%;
+    text-align: left;
+  
+  
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  .name1{
+    position: absolute;
+    top:640px;
+    left:400px;
+    font-weight: 600;
+    color:black;
+    font-size: 24;
+  }
+  .luxmi1{
+    position:absolute;
+    top:660px;
+    left:400px;
+    font-weight: 600;
+    color:black;
+    font-size: 24;
+    font-style: inherit;
+  }
+  body{
+    background-color: bisque;
+  }
